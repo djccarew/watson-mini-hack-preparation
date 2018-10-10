@@ -21,9 +21,9 @@ Note: Use your work email
 
 4. Work through short tutorials based of what area(s) you've decided to concentrate on.
 
- ..4.1 Machine Learning w/Watson Studio
+ .. 4.1 Machine Learning w/Watson Studio
  ...The MNIST Flow Editor demo..
-...https://dataplatform.cloud.ibm.com/docs/content/analyze-data/ml-canvas-nnd-mnist-tutorial.html?audience=wdp..
+...[https://dataplatform.cloud.ibm.com/docs/content/analyze-data/ml-canvas-nnd-mnist-tutorial.html?audience=wdp]..
 ...MNIST Demo with Python Notebook..
 ...https://dataplatform.cloud.ibm.com/docs/content/analyze-data/ml-python-mnist-tutorial.html?audience=wdp..
 ...Credit card fraud detection hands on exercise..
