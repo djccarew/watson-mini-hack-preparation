@@ -6,7 +6,7 @@ This project is used to support  Watson hackathons at various clients conducted 
 
 ## Watson Training
 
-The [Watson training slides](2018-10-04-Watson-Training.pdf) are the slides that were presented at the training session.
+The [Watson training slides](2018-10-04-Watson-Training.pdf) are the slides that were presented at the training session. (Note video of session is [here](https://www.youtube.com/watch?v=4a2AbZiv0Q4))
 
 
 ## Getting started
@@ -19,7 +19,7 @@ The [Watson training slides](2018-10-04-Watson-Training.pdf) are the slides that
 
 ### 3. Look at [Code Patterns](https://developer.ibm.com/patterns/) to get ideas about what is possible.
 
-### 4. Work through short tutorials based of what area(s) you've decided to concentrate on.
+### 4. Work through short tutorials based on what area(s) you've decided to concentrate on.
 
 #### 4.1 Machine Learning w/Watson Studio
 
@@ -49,8 +49,6 @@ Watson Discovery hands on exercise
 HungerBot hands on lab
 * https://github.com/djccarew/watson-assistant-lab
 
-Pattern based chatbot examples
-* https://github.com/watson-developer-cloud/community/tree/master/watson-assistant
 
 #### 4.4 Watson Visual Recognition
 
