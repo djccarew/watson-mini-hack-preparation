@@ -1,4 +1,4 @@
-# Watson Mini Hack Crib sheet
+# Watson Hackathon Crib Sheet
 ====================================
 
 This project is used to support  Watson hackathons at various clients conducted by IBM Developer Advocates. Because this is a public repo, it contains no client specific information. Note however that  the content may be updated over time to support different hackathons. It is  therefore recommended that you clone  the project at the time of your hackathon so the material will match  your session.
