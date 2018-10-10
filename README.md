@@ -24,13 +24,14 @@ Note: Use your work email
    4.1 Machine Learning w/Watson Studio
     The MNIST Flow Editor demo.
      https://dataplatform.cloud.ibm.com/docs/content/analyze-data/ml-canvas-nnd-mnist-tutorial.html?audience=wdp
-...MNIST Demo with Python Notebook..
-...https://dataplatform.cloud.ibm.com/docs/content/analyze-data/ml-python-mnist-tutorial.html?audience=wdp..
-...Credit card fraud detection hands on exercise..
-...https://github.com/djccarew/ccfraud-keras-lab-part1..
-...Oil price prediction hands on exercises..
-...https://github.com/djccarew/timeseries-rnn-lab-part1..
-...https://github.com/djccarew/timeseries-rnn-lab-part2..
+
+      MNIST Demo with Python Notebook
+       https://dataplatform.cloud.ibm.com/docs/content/analyze-data/ml-python-mnist-tutorial.html?audience=wdp
+        Credit card fraud detection hands on exercise
+         https://github.com/djccarew/ccfraud-keras-lab-part1
+          Oil price prediction hands on exercises
+           https://github.com/djccarew/timeseries-rnn-lab-part1
+            https://github.com/djccarew/timeseries-rnn-lab-part2
 
 ..4.2 Watson Natural Language Understanding and Discovery
 ...Watson NLU hands on exercise..
