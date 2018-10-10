@@ -6,7 +6,7 @@ This project is used to support  Watson hackathons at various clients conducted 
 
 ## Watson Training
 
-The [Watson training slides](2018-10-04 Watson Training.pdf) are the slides that were presented at the training session.
+The [Watson training slides](2018-10-04 Watson Training.pdf) are the slides that were presented at the training session.[Watson Services Guide for Developers](WatsonServicesGuideForDevelopersV2.0.pdf)
 
 
 ## Getting started
