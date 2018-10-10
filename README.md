@@ -6,7 +6,7 @@ This project is used to support  Watson hackathons at various clients conducted 
 
 ## Watson Training
 
-The [Watson training slides](2018-10-04 Watson Training.pdf) are the slides that were presented at the training session.[Watson Services Guide for Developers](WatsonServicesGuideForDevelopersV2.0.pdf)
+The [Watson training slides](2018-10-04-Watson-Training.pdf) are the slides that were presented at the training session.
 
 
 ## Getting started
@@ -21,9 +21,9 @@ Note: Use your work email
 
 4. Work through short tutorials based of what area(s) you've decided to concentrate on.
 
- .. 4.1 Machine Learning w/Watson Studio
- ...The MNIST Flow Editor demo..
-...[https://dataplatform.cloud.ibm.com/docs/content/analyze-data/ml-canvas-nnd-mnist-tutorial.html?audience=wdp]..
+   4.1 Machine Learning w/Watson Studio
+    The MNIST Flow Editor demo.
+     https://dataplatform.cloud.ibm.com/docs/content/analyze-data/ml-canvas-nnd-mnist-tutorial.html?audience=wdp
 ...MNIST Demo with Python Notebook..
 ...https://dataplatform.cloud.ibm.com/docs/content/analyze-data/ml-python-mnist-tutorial.html?audience=wdp..
 ...Credit card fraud detection hands on exercise..
