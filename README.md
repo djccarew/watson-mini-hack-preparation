@@ -12,16 +12,16 @@ The [Watson training slides](2018-10-04-Watson-Training.pdf) are the slides that
 ## Getting started
 
 
-1. Sign up for [IBM Cloud](https://www.ibm.com/cloud/)
-Note: Use your work email
+### 1. Sign up for [IBM Cloud](https://www.ibm.com/cloud/)
 
-2. Sign up for [Watson Studio](https://dataplatform.cloud.ibm.com/)
 
-3. Look at [Code Patterns](https://developer.ibm.com/patterns/) to get ideas about what is possible.
+### 2. Sign up for [Watson Studio](https://dataplatform.cloud.ibm.com/)
 
-4. Work through short tutorials based of what area(s) you've decided to concentrate on.
+### 3. Look at [Code Patterns](https://developer.ibm.com/patterns/) to get ideas about what is possible.
 
-4.1 Machine Learning w/Watson Studio
+### 4. Work through short tutorials based of what area(s) you've decided to concentrate on.
+
+#### 4.1 Machine Learning w/Watson Studio
 
 The MNIST Flow Editor demo.
 * https://dataplatform.cloud.ibm.com/docs/content/analyze-data/ml-canvas-nnd-mnist-tutorial.html?audience=wdp
@@ -36,7 +36,7 @@ Oil price prediction hands on exercises
 * https://github.com/djccarew/timeseries-rnn-lab-part1
 * https://github.com/djccarew/timeseries-rnn-lab-part2
 
-4.2 Watson Natural Language Understanding and Discovery
+#### 4.2 Watson Natural Language Understanding and Discovery
 
 Watson NLU hands on exercise
 * https://github.com/djccarew/watson-toneanalyzer-nlu-lab
@@ -44,7 +44,7 @@ Watson NLU hands on exercise
 Watson Discovery hands on exercise
 * https://github.com/indrann/watson-discovery-analyze-data-breaches
 
-4.3 Chatbots with Watson Assistant
+#### 4.3 Chatbots with Watson Assistant
 
 HungerBot hands on lab
 * https://github.com/djccarew/watson-assistant-lab
@@ -52,7 +52,7 @@ HungerBot hands on lab
 Pattern based chatbot examples
 * https://github.com/watson-developer-cloud/community/tree/master/watson-assistant
 
-4.4 Watson Visual Recognition
+#### 4.4 Watson Visual Recognition
 
 Company Logo hands on lab
 * https://github.com/djccarew/watson-vr-logo-lab
